@@ -62,7 +62,7 @@ Handles frequency-domain representation.
 - FFT(signal) — computes spectrum of a signal
 - IFFT(spectrum) — reconstructs signal from spectrum
 
-### Notes:
+## Notes:
 
 - Only the first two periods are shown in time-domain plots
 - Irrelevant near-zero amplitudes are omitted in spectra
